@@ -1,9 +1,3 @@
-// marked.setOpptions({
-//     breaks:true
-// })
-
-const renderer = new marked.Renderer();
-
 function App() {
     const [text,setText] = React.useState(placeholder)
 
