@@ -1,0 +1,37 @@
+body{
+    background-color:#B4D3C8;
+  }
+  
+textarea{
+    width:400px;
+    height:600px;
+    resize:none;
+    border:none;
+  }
+  
+.box{
+    margin:10px;
+  }
+  
+#E-title{
+    padding-top:-20px;
+    margin:10px;
+  }
+  
+
+#editor {
+    margin-top: 5px;
+    padding:10px;
+}
+#box-e{
+    background-color:#b2bec3;
+  }
+  
+#pre-box{
+    background-color:#fff;
+    
+  }
+  
+#preview{
+    margin:15px;
+  }
